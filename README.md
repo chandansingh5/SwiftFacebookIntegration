@@ -1,4 +1,4 @@
-# facebook-integration-using-swift 2
+# Facebook-integration-using-swift 2
 
 What Need to do before run the code.
 
